@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 5370fc27ff429884286b5ab8352a422c
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -3529396575795053972
+    second: Wall|DoorAction
+  - first:
+      74: -8590765920542936225
+    second: Wall|DoorAction.001
+  - first:
+      74: -6925237324421248197
+    second: Wall|DoorClose
+  - first:
+      74: -629543485458464625
+    second: Wall|DoorOpens
+  - first:
+      74: 1591440434246442008
+    second: Wall|HandleAction
+  - first:
+      74: 7869557762279154341
+    second: Wall|HandleAction.001
+  - first:
+      74: 4700092510931929627
+    second: Wall|HandleAction.002
+  - first:
+      74: -5369761546923577609
+    second: Wall|HandleBaseAction
+  - first:
+      74: 3820096036056002239
+    second: Wall|HandleBaseAction.001
+  - first:
+      74: 5302530677022670891
+    second: Wall|WallAction
+  - first:
+      74: -4379138895778929148
+    second: Door|DoorAction
+  - first:
+      74: -4416500839048991068
+    second: Door|DoorAction.001
+  - first:
+      74: -5589436533846708409
+    second: Door|DoorClose
+  - first:
+      74: 5239077547180378526
+    second: Door|DoorOpens
+  - first:
+      74: 6836146229875031137
+    second: Door|HandleAction
+  - first:
+      74: 7849580489806762969
+    second: Door|HandleAction.001
+  - first:
+      74: -5616995259250924348
+    second: Door|HandleAction.002
+  - first:
+      74: 8947560157795819995
+    second: Door|HandleBaseAction
+  - first:
+      74: -2072810088388798018
+    second: Door|HandleBaseAction.001
+  - first:
+      74: -1285625608119401484
+    second: Door|WallAction
+  - first:
+      74: 7413922759727630712
+    second: HandleBase|DoorAction
+  - first:
+      74: -2740825988739844712
+    second: HandleBase|DoorAction.001
+  - first:
+      74: 1541787217864225818
+    second: HandleBase|DoorClose
+  - first:
+      74: -3461122547302478851
+    second: HandleBase|DoorOpens
+  - first:
+      74: -8319425168340589977
+    second: HandleBase|HandleAction
+  - first:
+      74: 1890682235415370507
+    second: HandleBase|HandleAction.001
+  - first:
+      74: 1878015504482937159
+    second: HandleBase|HandleAction.002
+  - first:
+      74: 8510431964554824306
+    second: HandleBase|HandleBaseAction
+  - first:
+      74: 884679408129007115
+    second: HandleBase|HandleBaseAction.001
+  - first:
+      74: -1883144620241159105
+    second: HandleBase|WallAction
+  - first:
+      74: 7635126720617703222
+    second: Handle|DoorAction
+  - first:
+      74: 3803296285880742745
+    second: Handle|DoorAction.001
+  - first:
+      74: 4113962385116742459
+    second: Handle|DoorClose
+  - first:
+      74: -5493744101004212025
+    second: Handle|DoorOpens
+  - first:
+      74: 1408911813552154412
+    second: Handle|HandleAction
+  - first:
+      74: -9211429439164641491
+    second: Handle|HandleAction.001
+  - first:
+      74: 7197115230343126998
+    second: Handle|HandleAction.002
+  - first:
+      74: 4534559915351423007
+    second: Handle|HandleBaseAction
+  - first:
+      74: -9108530042711244585
+    second: Handle|HandleBaseAction.001
+  - first:
+      74: 746274055263524118
+    second: Handle|WallAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.5
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
