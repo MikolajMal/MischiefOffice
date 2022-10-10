@@ -8,6 +8,8 @@ public class MainMenu : MonoBehaviour
 {
     public GameObject loadingScreen;
     public GameObject levelSelector;
+    public GameObject mainMenu;
+    public GameObject optionsMenu;
     public Slider sliderProgressBar;
     public TMPro.TMP_Text progressTextTMP;
 
@@ -18,6 +20,8 @@ public class MainMenu : MonoBehaviour
     {
         audioMixer.SetFloat("volumeMainMenu", startVolume);
         levelSelector.SetActive(false);
+        optionsMenu.SetActive(false);
+        mainMenu.SetActive(true);
     }
 
     public void LoadLevel(int sceneIndex)
