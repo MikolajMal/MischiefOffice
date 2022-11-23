@@ -1,2 +1,3 @@
 # MischiefOffice!
-[GitHubGifMO ‐ Wykonano za pomocą Clipchamp](https://user-images.githubusercontent.com/38085557/203494131-1ca94736-8042-4734-a681-2b3252e367cf.gif)
+
+![MischiefOfficeGif](https://user-images.githubusercontent.com/38085557/203532177-eb35b059-9666-4221-b01d-3b132d50d170.gif)
