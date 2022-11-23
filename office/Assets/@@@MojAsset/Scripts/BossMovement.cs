@@ -118,6 +118,7 @@ public class BossMovement : MonoBehaviour
                     bossAnimator.SetTrigger("trapActive");
                     checkPointAchieved = true;
                     waitTime = 2f;
+                    trapsManager.isSugarBowlTrapSet = false;
                 }
                 else
                 {
@@ -135,6 +136,7 @@ public class BossMovement : MonoBehaviour
                     bossAnimator.SetTrigger("flowerTrapActive");
                     checkPointAchieved = true;
                     waitTime = 1f;
+                    trapsManager.isFlowerTrapSet = false;
                 }
                 else
                 {
